@@ -1,7 +1,7 @@
 # Epoching_StyleGan2
 A small repo containing code from a variety of sources (cited in the README.md) for the purpose of latent space exploration!
 
-My fastpages blog post/notebook: x
+My fastpages blog post/notebook: [Latent-Space-Exploration-with-StyleGAN2](https://amarsaini.github.io/Epoching-Blog/jupyter/2020/08/10/Latent-Space-Exploration-with-StyleGAN2.html)
 
 Sources:
 
